@@ -52,8 +52,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 602}
     - Class: 114
@@ -71,11 +69,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9380}
     - Class: 114
-      Script: {instanceID: 13974}
+      Script: {instanceID: 9946}
     - Class: 114
-      Script: {instanceID: 15380}
+      Script: {instanceID: 10510}
     - Class: 114
-      Script: {instanceID: 22330}
+      Script: {instanceID: 10530}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -611,6 +609,12 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
+      Hash: cfb02dcb6cc5fdf707a657e1bcf678ed
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Maincamera_action
+  - hash:
+      serializedVersion: 2
       Hash: 3f8d7b92a6be3c715e55d5cfa7cc8384
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -707,6 +711,12 @@ ScriptsOnlyBuild:
     className: TMP_StyleSheet
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Move
+  - hash:
+      serializedVersion: 2
       Hash: 5372ed2ce39229b1ac910757999a8be2
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -719,10 +729,22 @@ ScriptsOnlyBuild:
     className: TMP_ColorGradient
   - hash:
       serializedVersion: 2
+      Hash: 043ee087fc57dc8fa4059271ebe9b52e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Main
+  - hash:
+      serializedVersion: 2
       Hash: 8649814970b42d345b89944b862453cc
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ettact
   - hash:
       serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
@@ -735,30 +757,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 043ee087fc57dc8fa4059271ebe9b52e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Main
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Move
-  - hash:
-      serializedVersion: 2
-      Hash: cfb02dcb6cc5fdf707a657e1bcf678ed
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Maincamera_action
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ettact
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
