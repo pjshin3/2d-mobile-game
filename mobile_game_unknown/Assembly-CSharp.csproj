@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\code\enermy.cs" />
     <Compile Include="Assets\code\ettact.cs" />
     <Compile Include="Assets\code\Main.cs" />
     <Compile Include="Assets\code\Maincamera_action.cs" />
